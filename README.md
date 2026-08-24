@@ -1,16 +1,16 @@
-## Hi there 👋
+# Computer Information Systems Student
 
-<!--
-**InfraRaven99/InfraRaven99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student focused on systems administration, automation, and Linux infrastructure engineering. I build declarative, automated infrastructure to manage internal services and secure container runtimes.
 
-Here are some ideas to get you started:
+## Education
+* **Degree:** B.S. in Computer Information Systems
+* **Timeline:** Expected Graduation: May 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+* **Automation & IaC:** Ansible, Cloud-Init, Infrastructure Provisioning, System Deployments, Configuration Management
+* **Systems Administration:** Linux Administration, Hypervisor Configuration, Virtualization, Service Orchestration, OS Hardening
+* **Containerization:** Docker, Podman, Container Integration, Workload Isolation, Application Portability
+* **Networking & Security:** Reverse Proxy, Traffic Routing, Local DNS Management, Firewall Policy Enforcement
+
+## Projects
+* **[Homelab-Infrastructure](https://github.com/InfraRaven99/Homelab-Infrastructure):** Automated 5-layer deployment pipeline provisioning secure, unprivileged Linux environments on Proxmox VE using Ansible and Podman.
