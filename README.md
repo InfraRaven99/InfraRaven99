@@ -4,7 +4,7 @@ IT student focused on systems administration, automation, and Linux infrastructu
 
 ## Education
 * **Degree:** B.S. in Computer Information Systems
-* **Timeline:** Expected Graduation: May 2027
+* **Expected Graduation:** May 2027
 
 ## Technical Skills
 * **Automation & IaC:** Ansible, Cloud-Init, Infrastructure Provisioning, System Deployments, Configuration Management
