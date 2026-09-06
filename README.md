@@ -2,7 +2,6 @@
 
 I am a Computer Information Systems student specializing in Systems Administration, DevOps methodologies, and Linux infrastructure engineering. I design and maintain highly automated, declarative infrastructure focused on configuration management, infrastructure-as-code (IaC), and secure container isolation.
 
----
 
 ## Skills
 
@@ -10,8 +9,6 @@ I am a Computer Information Systems student specializing in Systems Administrati
 * Systems Administration: Linux Administration, Hypervisor Configuration, Virtualization, Service Orchestration, OS Hardening
 * Containerization: Docker, Podman, Container Integration, Workload Isolation, Application Portability
 * Networking & Security: Reverse Proxy, Traffic Routing, Local DNS Management, Firewall Policy Enforcement
-
----
 
 ## Projects
 
@@ -23,8 +20,6 @@ Project Creator / Administrator | August 2026 to Present
 * Implemented traffic routing and local domain configurations to manage core service communications.
 * Orchestrated system service baselines to manage background process lifecycles and application states.
 * Maintained strict single-source-of-truth configuration management practices, ensuring all application deployments are modular, version-controlled, and easily reproducible.
-
----
 
 ## Education
 
