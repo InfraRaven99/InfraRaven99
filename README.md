@@ -12,7 +12,7 @@ I am a Computer Information Systems student specializing in Systems Administrati
 
 ## Projects
 
-### [Homelab-Infrastructure](https://github.com/InfraRaven99/Homelab-Infrastructure))
+### [Homelab-Infrastructure](https://github.com/InfraRaven99/Homelab-Infrastructure)
 Project Creator / Administrator | August 2026 to Present
 
 * Developed a fully automated, layered deployment pipeline using infrastructure-as-code methodologies to provision reproducible Linux environments on a hypervisor cluster.
