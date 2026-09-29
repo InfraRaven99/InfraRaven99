@@ -1,4 +1,4 @@
-# Hi, InfraRaven99
+# Hi, I'm InfraRaven99
 
 I am a Computer Information Systems student specializing in Systems Administration, DevOps methodologies, and Linux infrastructure engineering. I design and maintain highly automated, declarative infrastructure focused on configuration management, infrastructure-as-code (IaC), and secure container isolation.
 
